@@ -48,7 +48,7 @@ def calculate_score(update, context):
 # Функция main, инициализация бота
 def main():
     # Токен бота
-    token = "7066512281:AAGS92f_7glR00HaST5Grf7E8cqx30bUS6g"
+    token = "token input"
 
     # Создание экземпляра Updater и передача токена бота
     updater = Updater(token, use_context=True)
